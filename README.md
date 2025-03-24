@@ -1,3 +1,5 @@
-#To launch:
-#npm install
-#npm run dev
+To launch:
+
+npm install
+
+npm run dev
